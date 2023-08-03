@@ -28,3 +28,4 @@ Average number of rooms successfully used by customers per day during a time per
 
  #  A Path to Success
 This Power BI report utilizes three months' booking data, providing actionable insights to AtliQ Grands' revenue team. It identifies opportunities to improve pricing, implement cost-cutting strategies, and drive revenue growth. A roadmap for AtliQ Grands to regain market share and increase revenue.
+![Screenshot 2023-08-03 122316](https://github.com/Ankarisaikiran/Business-Insghts-360/assets/140939059/a0049837-5962-4815-af8a-ecad296b8a7e)
